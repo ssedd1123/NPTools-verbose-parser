@@ -1,0 +1,26 @@
+    0      0 fm      0 fm  -33.7 nm   3.14 rad    149 MeV0 eV      0 fm      0 fm       Target    initStep
+    1   22.5 nm  -20.5 nm     50 nm   31.3 deg    149 MeV  58.4 eV   89.1 nm   89.1 nm       Target  Transportation
+    2   8.88 cm  -8.09 cm     33 cm     20 deg    149 MeV0.000188 eV   35.2 cm   35.2 cm        world  Transportation
+    3   9.21 cm  -8.39 cm   34.3 cm     20 deg    149 MeV 7e-06 eV   1.31 cm   36.5 cm        Hira2  Transportation
+    4   9.25 cm  -8.42 cm   34.4 cm     20 deg    147 MeV  2.44 MeV  1.51 mm   36.7 cm      ThickSi  Transportation
+    5   9.68 cm  -8.81 cm     36 cm     20 deg    147 MeV9.7e-06 eV   1.79 cm   38.4 cm        Hira2  Transportation
+    6   9.87 cm  -8.98 cm   36.7 cm     20 deg    129 MeV  17.6 MeV  7.58 mm   39.2 cm   CsI_Cristal       hIoni
+    7     10 cm  -9.14 cm   37.3 cm     20 deg    113 MeV  16.1 MeV  6.12 mm   39.8 cm   CsI_Cristal       hIoni
+    8   10.1 cm  -9.27 cm   37.7 cm     20 deg   98.6 MeV  14.6 MeV   4.9 mm   40.3 cm   CsI_Cristal       hIoni
+    9   10.2 cm  -9.35 cm   38.1 cm   19.9 deg   86.6 MeV  12.1 MeV  3.89 mm   40.7 cm   CsI_Cristal       hIoni
+   10   10.2 cm  -9.41 cm   38.4 cm   19.9 deg   75.2 MeV  11.4 MeV  3.14 mm     41 cm   CsI_Cristal       hIoni
+   11   10.3 cm  -9.46 cm   38.7 cm   19.9 deg   65.6 MeV  9.55 MeV   2.5 mm   41.3 cm   CsI_Cristal       hIoni
+   12   10.3 cm  -9.48 cm   38.9 cm   19.8 deg   56.8 MeV  8.78 MeV  2.01 mm   41.5 cm   CsI_Cristal       hIoni
+   13   10.3 cm  -9.51 cm     39 cm   19.8 deg   49.1 MeV  7.78 MeV  1.61 mm   41.6 cm   CsI_Cristal       hIoni
+   14   10.3 cm  -9.53 cm   39.1 cm   19.8 deg   42.1 MeV  6.96 MeV  1.28 mm   41.8 cm   CsI_Cristal       hIoni
+   15   10.4 cm  -9.54 cm   39.2 cm   19.7 deg   36.2 MeV  5.87 MeV  1.02 mm   41.9 cm   CsI_Cristal       hIoni
+   16   10.4 cm  -9.55 cm   39.3 cm   19.7 deg   30.9 MeV  5.32 MeV   828 um   41.9 cm   CsI_Cristal       hIoni
+   17   10.4 cm  -9.57 cm   39.4 cm   19.7 deg   25.9 MeV  5.05 MeV   669 um     42 cm   CsI_Cristal       hIoni
+   18   10.4 cm  -9.57 cm   39.4 cm   19.7 deg   21.1 MeV  4.75 MeV   536 um   42.1 cm   CsI_Cristal       hIoni
+   19   10.4 cm  -9.59 cm   39.5 cm   19.7 deg   16.8 MeV   4.3 MeV   425 um   42.1 cm   CsI_Cristal       hIoni
+   20   10.4 cm   -9.6 cm   39.5 cm   19.7 deg   12.7 MeV  4.12 MeV   338 um   42.1 cm   CsI_Cristal       hIoni
+   21   10.4 cm  -9.61 cm   39.5 cm   19.7 deg    8.8 MeV  3.89 MeV   264 um   42.2 cm   CsI_Cristal       hIoni
+   22   10.4 cm  -9.62 cm   39.6 cm   19.7 deg   4.74 MeV  4.06 MeV   201 um   42.2 cm   CsI_Cristal       hIoni
+   23   10.4 cm  -9.62 cm   39.6 cm   19.7 deg    740 keV     4 MeV   121 um   42.2 cm   CsI_Cristal       hIoni
+   24   10.4 cm  -9.62 cm   39.6 cm   19.7 deg      0 eV    740 keV  9.35 um   42.2 cm   CsI_Cristal       hIoni
+
